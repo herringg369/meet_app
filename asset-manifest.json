@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/herringg369.github.io/meet_app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/herringg369.github.io/meet_app/static/js/main.2ef9c8fb.chunk.js",
+    "main.js.map": "/herringg369.github.io/meet_app/static/js/main.2ef9c8fb.chunk.js.map",
+    "runtime-main.js": "/herringg369.github.io/meet_app/static/js/runtime-main.dd3ef2bb.js",
+    "runtime-main.js.map": "/herringg369.github.io/meet_app/static/js/runtime-main.dd3ef2bb.js.map",
+    "static/js/2.9df8e2a7.chunk.js": "/herringg369.github.io/meet_app/static/js/2.9df8e2a7.chunk.js",
+    "static/js/2.9df8e2a7.chunk.js.map": "/herringg369.github.io/meet_app/static/js/2.9df8e2a7.chunk.js.map",
+    "static/js/3.ee38389b.chunk.js": "/herringg369.github.io/meet_app/static/js/3.ee38389b.chunk.js",
+    "static/js/3.ee38389b.chunk.js.map": "/herringg369.github.io/meet_app/static/js/3.ee38389b.chunk.js.map",
+    "index.html": "/herringg369.github.io/meet_app/index.html",
+    "service-worker.js": "/herringg369.github.io/meet_app/service-worker.js",
+    "service-worker.js.map": "/herringg369.github.io/meet_app/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/herringg369.github.io/meet_app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9df8e2a7.chunk.js.LICENSE.txt": "/herringg369.github.io/meet_app/static/js/2.9df8e2a7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/herringg369.github.io/meet_app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd3ef2bb.js",
+    "static/js/2.9df8e2a7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2ef9c8fb.chunk.js"
+  ]
+}
